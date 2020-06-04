@@ -16,7 +16,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-<span style="background-color:#FAEBD7">[pdf (pre-print)](/files/papasavva2020raiders.pdf)</span>, <span style="background-color:#98FB98">[dataset](https://zenodo.org/record/3606810)</span>  
+<span style="background-color:#FAEBD7">[pdf](/files/papasavva2020raiders.pdf)</span>, <span style="background-color:#98FB98">[dataset](https://zenodo.org/record/3606810)</span>  
 
 
 Kostantinos Papadamou, Antonis Papasavva, Savvas Zannettou, Jeremy Blackburn, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Michael Sirivianos  
