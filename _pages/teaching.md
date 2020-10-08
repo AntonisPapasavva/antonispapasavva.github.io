@@ -13,4 +13,5 @@ author_profile: true
 
 **University Collage London**
 1. Computer Architecture and Hardware - *MSc course*
-2. Software Engineering - *MSc course*
+2. Software Engineering - *MSc course*  
+3. People and Security - *MSc course*
