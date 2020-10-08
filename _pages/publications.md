@@ -34,18 +34,3 @@ Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, Emil
 **"Is it a Qoincidence?": A First Step Towards Understanding and Characterizing the QAnon Movement on Voat.co**  
 <span style="background-color:#FAEBD7">[pdf](/files/papasavva2020qoincidence.pdf)</span>
 
-
-<!---
-#**2016**
-
-#Giorgos A Demetriou, Stelios Ioannou, Andreas Hadjipieri, Irene Erica Panayidou, Antonis Papasavva, Andreas Savva\
-#**ERON: A flexible autonomous surface vessel**\
-#24th Mediterranean Conference on Control and Automation (MEDCON 2016)\
-#[pdf](https://www.researchgate.net/publication/301496594_ERON_A_flexible_autonomous_surface_vessel)
-
-#Giorgos A Demetriou, Andreas Hadjipieri, Irene Erica Panayidou, Antonis Papasavva, Stelios Ioannou\
-#**ERON: A PID controlled autonomous surface vessel**\
-#18th Mediterranean Electrotechnical Conference (MELECON 2016)\
-#[pdf](https://www.researchgate.net/publication/294206901_ERON_A_PID_controlled_autonomous_surface_vessel)
-
---->
