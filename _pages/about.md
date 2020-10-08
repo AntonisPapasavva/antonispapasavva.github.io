@@ -15,7 +15,7 @@ Research
 During my bachelor studies I conducted research and focused on unmanned surface vessels, robotics, and automation (PID controlled systems).  
 Then, while I was undertaking my master's degree in Data Science and Engineering, my research focused on device-centric authentication, federated identity management, cybersafety, and the detection and characterization of inappropriate content. 
 I have demonstrated experience with working on EU-funded projects. 
-Specifically, I took over highly responsible roles and actively contributed to [ReCRED](https://www.recred.eu/) and [ENCASE](https://encase.socialcomputing.eu/) projects as a pilot manager and technical lead, respectively. 
+Specifically, I took over highly responsible roles and actively contributed to <a href="https://www.recred.eu/">ReCRED</a> and <a href="https://encase.socialcomputing.eu/">ENCASE</a> projects as a pilot manager and technical lead, respectively. 
 In addition, I had the opportunity to spend 8 months (in total) as an intern at Telefonica I+D, Barcelona, Spain.  
 Currently, my research focuses on the characterization and detection of racism, misogyny, and other types of discriminating behavior in mainstream and non-mainstream online social networks, large scale data processing, and deep learning networks.  
 </div>
