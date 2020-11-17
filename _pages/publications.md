@@ -32,7 +32,7 @@ Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtub
 --
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
 **"Is it a Qoincidence?": A First Step Towards Understanding and Characterizing the QAnon Movement on Voat.co**  
-<span style="background-color:#FAEBD7">[pdf](/files/papasavva2020qoincidence.pdf)</span>  
+<span style="background-color:#FAEBD7">[pdf](/files/papasavva2020qoincidence.pdf)</span>, <span style="background-color:#FFC0CB">[virtual presentation](https://youtu.be/xgWumFjgQh0)</span>  
 Coverage: [WIRED](https://www.wired.com/story/qanon-facebook-deplatforming/)
 
 
