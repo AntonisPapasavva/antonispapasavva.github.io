@@ -12,9 +12,10 @@ I am a PhD researcher at University College London under the supervision of Prof
 Research
 ------
 <div style="text-align: justify">
-My research focuses on the characterization and detection of racism, misogyny, and other types of discriminating behavior in mainstream and non-mainstream online social networks, and large scale data processing.
+My research focuses on the characterization and detection of racism, misogyny, and other types of discriminating behavior in mainstream and non-mainstream online social networks, and large scale data processing.  
+
 While I was undertaking my master's degree in Data Science and Engineering, at the Cyprus University of Technology (CUT), my research focused on device-centric authentication, federated identity management, cybersafety, and the detection and characterization of inappropriate content online. 
-At the same time, I was working as a research fellow at CUT and actively contributed to EU-funded projects like <a href="https://www.recred.eu/">ReCRED</a> and <a href="https://encase.socialcomputing.eu/">ENCASE</a> projects.
+Also, in parallel to my MSc studies I worked as a research fellow at CUT and actively contributed to EU-funded projects like <a href="https://www.recred.eu/">ReCRED</a> and <a href="https://encase.socialcomputing.eu/">ENCASE</a>.
 In addition, I had the opportunity to spend 8 months (in total) as an intern at Telefonica I+D, Barcelona, Spain.  
 During my bachelor studies I conducted research on unmanned surface vessels, robotics, and automation (PID controlled systems).  
 </div>
