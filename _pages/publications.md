@@ -14,7 +14,7 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ
 --
 Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, Emiliano De Cristofaro  
 **"Is it a Qoincidence?": A First Step Towards Understanding and Characterizing the QAnon Movement on Voat.co**  
-30th The Web Conference 2021, to appear  
+30th The Web Conference (WWW 2021)  
 <span style="background-color:#FAEBD7">[pdf](/files/papasavva2020qoincidence.pdf)</span>, <span style="background-color:#BDD0CF">[virtual presentation](https://youtu.be/xgWumFjgQh0)</span>  
 Coverage: [WIRED](https://www.wired.com/story/qanon-facebook-deplatforming/)	
 
