@@ -41,7 +41,7 @@ Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtub
 --
 Max Aliapoulios, Antonis Papasavva, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
-<span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2101.08750.pdf)</span>, <span style="background-color:#BDD0CF">[virtual presentation](https://youtu.be/xgWumFjgQh0)</span>  
+<span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2101.08750.pdf)</span>
 
 
 
