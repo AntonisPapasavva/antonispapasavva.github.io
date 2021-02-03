@@ -16,7 +16,7 @@ Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, Emil
 **"Is it a Qoincidence?": A First Step Towards Understanding and Characterizing the QAnon Movement on Voat.co**  
 30th The Web Conference (WWW 2021)  
 <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2009.04885.pdf)</span>, <span style="background-color:#BDD0CF">[virtual presentation](https://youtu.be/xgWumFjgQh0)</span>  
-Coverage: [WIRED](https://www.wired.com/story/qanon-facebook-deplatforming/)	
+Coverage: [WIRED](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown)  	
 
 
 **2020** 
