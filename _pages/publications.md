@@ -15,7 +15,8 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ
 Max Aliapoulios, Antonis Papasavva, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 To appear at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-<span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2101.08750.pdf)</span>
+<span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2101.08750.pdf)</span>  
+Coverage: [NewScientist](https://www.newscientist.com/article/2285563-qanon-posts-by-figurehead-q-may-be-written-by-more-than-one-person/)  
 
 **2021**
 --
