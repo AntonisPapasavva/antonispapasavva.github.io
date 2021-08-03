@@ -16,7 +16,7 @@ Max Aliapoulios, Antonis Papasavva, Cameron Ballard, Emiliano De Cristofaro, Gia
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
 To appear at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2101.08750.pdf)</span>  
-Coverage: [NewScientist](https://www.newscientist.com/article/2285563-qanon-posts-by-figurehead-q-may-be-written-by-more-than-one-person/)  
+Coverage: [NewScientist](https://www.newscientist.com/article/2285563-qanon-posts-by-figurehead-q-may-be-written-by-more-than-one-person/), [The Queen’s Journal](https://www.queensjournal.ca/story/2021-02-05/lifestyle/everything-you-need-to-know-about-the-unfounded-qanon-theory/)    
 
 **2021**
 --
