@@ -24,7 +24,7 @@ Antonis Papasavva, Jeremy Blackburn, Gianluca Stringhini, Savvas Zannettou, Emil
 **"Is it a Qoincidence?": An Exploratory Study of QAnon on Voat**  
 30th The Web Conference (WWW 2021)  
 <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2009.04885.pdf)</span>, <span style="background-color:#BDD0CF">[virtual presentation](https://www.youtube.com/watch?v=b4BAXfCrKz8)</span>  
-Coverage: [WIRED](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown), [openDemocracy](https://www.opendemocracy.net/en/countering-radical-right/social-media-platform-welcomes-qanon-open-arms/), [CARR](http://www.radicalrightanalysis.com/2020/11/27/the-social-media-platform-that-welcomes-qanon-with-open-arms/)    	
+Coverage: [WIRED](https://www.wired.com/story/qanon-facebook-deplatforming/), [Echosec](https://www.echosec.net/blog/what-is-voat), [The Daily Beast](https://www.thedailybeast.com/another-blow-for-qanon-as-voat-announces-a-christmas-shutdown), [openDemocracy](https://www.opendemocracy.net/en/countering-radical-right/social-media-platform-welcomes-qanon-open-arms/), [CARR](http://www.radicalrightanalysis.com/2020/11/27/the-social-media-platform-that-welcomes-qanon-with-open-arms/)  
 Highlight: The CEO of Voat, @Atko, posted a hyperlink to our paper and discussed it on the [v/whatever](https://searchvoat.co/v/whatever/4106185) subverse.  
 
 
