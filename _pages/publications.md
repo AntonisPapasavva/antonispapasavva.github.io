@@ -9,6 +9,7 @@ author_profile: true
 {% include base_path %}
 
 Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ&hl=en&oi=sra) page for the full list of my publications.
+I also list the projects I am currently working on at the end of the *Selected Publications* list.
 
 **2022**  
 --
@@ -48,7 +49,11 @@ Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtub
 
 **Current Projects**
 --
-TBA
+Amin Mekacher, Antonis Papasavva    
+**"I can't keep it up anymore." The Voat.co dataset**  
+<span style="background-color:#FAEBD7">[pdf TBA on Arxiv soon]()    
+Dataset: [Zenodo](https://zenodo.org/record/5841668)  
+
 
 
 
