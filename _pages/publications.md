@@ -9,13 +9,19 @@ author_profile: true
 {% include base_path %}
 
 Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ&hl=en&oi=sra) page for the full list of my publications.
-I also list the projects I am currently working on at the end of the *Selected Publications* list.
+<!---I also list the projects I am currently working on at the end of the *Selected Publications* list. -->
 
 **2022**  
 --
-Max Aliapoulios, Antonis Papasavva, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Jeremy Blackburn  
+
+Amin Mekacher, Antonis Papasavva    
+**"I Can't Keep It Up." A Dataset from the Defunct Voat.co News Aggregator**  
+16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
+<span style="background-color:#FAEBD7">[pdf](https://arxiv.org/abs/2201.05933)</span>, <span style="background-color:#98FB98">[dataset](https://zenodo.org/record/3606810)</span>  
+
+Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
-To appear at the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
+16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
 <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2101.08750.pdf)</span>  
 Coverage: [NewScientist](https://www.newscientist.com/article/2285563-qanon-posts-by-figurehead-q-may-be-written-by-more-than-one-person/), [The Queen’s Journal](https://www.queensjournal.ca/story/2021-02-05/lifestyle/everything-you-need-to-know-about-the-unfounded-qanon-theory/)    
 
@@ -49,11 +55,8 @@ Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtub
 
 **Current Projects**
 --
-Amin Mekacher, Antonis Papasavva    
-**"I can't keep it up anymore." The Voat.co dataset**  
-<span style="background-color:#FAEBD7">[pdf TBA on Arxiv soon]()    
-Dataset: [Zenodo](https://zenodo.org/record/5841668)  
 
+TBA
 
 
 
