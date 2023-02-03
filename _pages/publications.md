@@ -56,7 +56,11 @@ Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtub
 **Current Projects**
 --
 
-TBA
+Antonis Papasavva and Enrico Mariconti   
+**"Waiting for Q: An Exploration of QAnon Users’ Online Migration to Poal in theWake of Voat’s Demise**  
+Under submission    
+<span style="background-color:#FAEBD7">[pdf TBA]()</span>  
+
 
 
 
