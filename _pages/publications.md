@@ -40,7 +40,8 @@ Highlight: The CEO of Voat, @Atko, posted a hyperlink to our paper and discussed
 Antonis Papasavva, Savvas Zannettou, Emiliano De Cristofaro, Gianluca Stringhini, Jeremy Blackburn  
 **Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-<span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2001.07487.pdf)</span>, <span style="background-color:#98FB98">[dataset](https://zenodo.org/record/3606810)</span>, <span style="background-color:#BDD0CF">[virtual presentation](https://www.youtube.com/watch?v=XtqE6ztLK6U&t=30s&ab_channel=iDramaLab)</span>
+<span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2001.07487.pdf)</span>, <span style="background-color:#98FB98">[dataset](https://zenodo.org/record/3606810)</span>, <span style="background-color:#BDD0CF">[virtual presentation](https://www.youtube.com/watch?v=XtqE6ztLK6U&t=30s&ab_channel=iDramaLab)</span>  
+Coverage: [The Gradient](https://thegradient.pub/gpt-4chan-lessons/)  
 
 
 Kostantinos Papadamou, Antonis Papasavva, Savvas Zannettou, Jeremy Blackburn, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Michael Sirivianos  
