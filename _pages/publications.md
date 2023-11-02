@@ -17,7 +17,7 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ
 Amin Mekacher, Antonis Papasavva    
 **"I Can't Keep It Up." A Dataset from the Defunct Voat.co News Aggregator**  
 16th International AAAI Conference on Web and Social Media (ICWSM 2022)  
-<span style="background-color:#FAEBD7">[pdf](https://arxiv.org/abs/2201.05933)</span>, <span style="background-color:#98FB98">[dataset](https://zenodo.org/record/3606810)</span>  
+<span style="background-color:#FAEBD7">[pdf](https://arxiv.org/abs/2201.05933)</span>, <span style="background-color:#98FB98">[dataset](https://zenodo.org/records/5841668)</span>  
 
 Antonis Papasavva, Max Aliapoulios, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Jeremy Blackburn  
 **The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information**  
