@@ -29,7 +29,7 @@ Education
 ------
 - *PhD in Discourse Analysis and Data Science* (Phd defence viva pending)  
 University College London
-Advisors: Prof. [Emiliano De Cristofaro](http://emilianodc.com/) and Dr. Enrico Mariconti](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/)
+Advisors: Prof. [Emiliano De Cristofaro](http://emilianodc.com/) and [Dr. Enrico Mariconti](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/)
 
 - *MSc in Data Science and Engineering*  
 Cyprus University of Technology, Cyprus  
