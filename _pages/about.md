@@ -28,18 +28,18 @@ During my bachelor studies I conducted research on unmanned surface vessels, rob
 Education
 ------
 - *PhD in Discourse Analysis and Data Science* (Phd defence viva pending)  
-University College London
-Advisors: Prof. [Emiliano De Cristofaro](http://emilianodc.com/) and [Dr. Enrico Mariconti](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/)
+University College London  
+Advisors: [Prof. Emiliano De Cristofaro](http://emilianodc.com/) and [Dr. Enrico Mariconti](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/)
 
 - *MSc in Data Science and Engineering*  
 Cyprus University of Technology, Cyprus  
-Advisor: Dr. [Michael Sirivianos](https://netsysci.cut.ac.cy/michael.sirivianos/)  
+Advisor: [Dr. Michael Sirivianos](https://netsysci.cut.ac.cy/michael.sirivianos/)  
 
 - *BSc in Computer Science*  
 Frederick University, Cyprus  
 
 
-Personal
+<!-- Personal
 ------
 <div style="text-align: justify">
 I was born in Limassol, Cyprus where I spent my childhood.
@@ -48,4 +48,4 @@ During my studies in Cyprus I had the luck of visiting several locations in Euro
 However, I love travelling and getting to know about cultures, people, and places.  
 During my time-off I enjoy a good sci-fi movie, sailing in World of Warships, and jogging with psychos in Borderlands.
 In addition, I am a foodie and I like to cook quite often: Cypriot and mediterranean cuisine of course. 
-</div>
+</div> -->
