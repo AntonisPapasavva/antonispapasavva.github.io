@@ -18,7 +18,7 @@ As part of my Postdoctoral position at UCL, my research focuses on the identific
   
 During my time as a PhD researcher, my academic research focused on the characterization and detection of extremist, conspiratory-focused, fringe communities in alternative and mainstream social networks. This work employed various quantitative and qualitative data analysis methods, statistical analysis, and Natural Language Processing and Discourse Analysis tools.  
   
-Before that, as a Research Fellow at CUT, my research focused on device-centric authentication, federated identity management, cybersafety, and the detection and characterization of inappropriate content online, while actively contributing to EU-funded projects (<a href="https://www.recred.eu/">ReCRED</a> and <a href="https://encase.socialcomputing.eu/">ENCASE</a>).
+Before that, as a Research Fellow at CUT, my research focused on device-centric authentication, federated identity management, cybersafety, and the detection and characterization of inappropriate content online, while actively contributing to EU-funded projects (<a href="https://cordis.europa.eu/project/id/653417/">ReCRED</a> and <a href="https://encase.socialcomputing.eu/">ENCASE</a>).
 In addition, I had the opportunity to spend 8 months (in total) as an intern at Telefonica I+D, Barcelona, Spain.  
 
 During my bachelor studies I conducted research on unmanned surface vessels, robotics, and automation (PID controlled systems).  
