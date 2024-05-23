@@ -17,7 +17,7 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ
 
 Antonis Papasavva and Enrico Mariconti   
 **"Waiting for Q: An Exploration of QAnon Users’ Online Migration to Poal in theWake of Voat’s Demise**  
-6th ACM Web Science Conference (WebSci 2024)     
+16th ACM Web Science Conference (WebSci 2024)     
 <span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/10.1145/3614419.3644021)</span>  
 
 
