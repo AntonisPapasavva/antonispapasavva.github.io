@@ -11,6 +11,16 @@ author_profile: true
 Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ&hl=en&oi=sra) page for the full list of my publications.
 <!---I also list the projects I am currently working on at the end of the *Selected Publications* list. -->
 
+
+**2024**  
+--
+
+Antonis Papasavva and Enrico Mariconti   
+**"Waiting for Q: An Exploration of QAnon Users’ Online Migration to Poal in theWake of Voat’s Demise**  
+6th ACM Web Science Conference (WebSci 2024)     
+<span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/10.1145/3614419.3644021)</span>  
+
+
 **2022**  
 --
 
@@ -57,11 +67,7 @@ Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtub
 **Current Projects**
 --
 
-Antonis Papasavva and Enrico Mariconti   
-**"Waiting for Q: An Exploration of QAnon Users’ Online Migration to Poal in theWake of Voat’s Demise**  
-Under submission    
-<span style="background-color:#FAEBD7">[pre-print](https://arxiv.org/pdf/2302.01397.pdf)</span>  
-
-
-
+Marilyne Ordekian, Antonis Papasavva, Enrico Mariconti, Marie Vasek  
+**A Sinister Fattening: Dissecting the Tales of Pig Butchering and other Cryptocurrency Scams**  
+*Under Submission*  
 
