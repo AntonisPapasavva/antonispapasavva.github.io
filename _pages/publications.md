@@ -14,6 +14,9 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ
 
 **2024**  
 --
+Marilyne Ordekian, Antonis Papasavva, Enrico Mariconti, Marie Vasek  
+**A Sinister Fattening: Dissecting the Tales of Pig Butchering and other Cryptocurrency Scams**  
+IEEE APWG Symposium on Electronic Crime Research (eCrime 2024)  
 
 Antonis Papasavva and Enrico Mariconti   
 **Waiting for Q: An Exploration of QAnon Users’ Online Migration to Poal in the Wake of Voat’s Demise**  
@@ -66,8 +69,11 @@ Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtub
 
 **Current Projects**
 --
+Antonis Papasavva, Shane Johnson, Ed Lowther, Samantha Lundrigan, Enrico Mariconti, Anna Markovska, Nilufer Tuptuk  
+**Application of AI-based Models for Online Fraud Detection and Analysis**  
+*Under peer review process*  
 
-Marilyne Ordekian, Antonis Papasavva, Enrico Mariconti, Marie Vasek  
-**A Sinister Fattening: Dissecting the Tales of Pig Butchering and other Cryptocurrency Scams**  
-*Under Submission*  
+Sharad Agarwal, Antonis Papasavva, Guillermo Suárez-Tangil, Marie Vasek  
+**Examining Smishing Reports from Online Forums**  
+*Under peer review process*  
 
