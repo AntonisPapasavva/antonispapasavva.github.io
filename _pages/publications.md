@@ -11,6 +11,18 @@ author_profile: true
 Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ&hl=en&oi=sra) page for the full list of my publications.
 <!---I also list the projects I am currently working on at the end of the *Selected Publications* list. -->
 
+**2025**  
+--  
+Sharad Agarwal, Antonis Papasavva, Guillermo Suarez-Tangil, Marie Vasek
+**Fishing for Smishing: Understanding SMS Phishing Infrastructure and Strategies by Mining Public User Reports**  
+ACM Internet Measurement Conference 2025 (IMC’25)  
+<span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/10.1145/3730567.3764431)</span>  
+
+Antonis Papasavva, Samantha Lundrigan, Ed Lowther, Shane Johnson, Enrico Mariconti, Anna Markovska, Nilufer Tuptuk  
+**Applications of AI-Based Models for Online Fraud Detection and Analysis**  
+Crime Science Journal, Vol 14  
+<span style="background-color:#FAEBD7">[pdf](https://link.springer.com/article/10.1186/s40163-025-00248-8)</span>  
+
 
 **2024**  
 --
@@ -65,15 +77,4 @@ Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtub
 **Awards:** Honorable mention (top 8)
 
 
----
-
-**Current Projects**
---
-Antonis Papasavva, Shane Johnson, Ed Lowther, Samantha Lundrigan, Enrico Mariconti, Anna Markovska, Nilufer Tuptuk  
-**Application of AI-based Models for Online Fraud Detection and Analysis**  
-*Under peer review process*  
-
-Sharad Agarwal, Antonis Papasavva, Guillermo Suárez-Tangil, Marie Vasek  
-**Examining Smishing Reports from Online Forums**  
-*Under peer review process*  
 
