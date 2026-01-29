@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Antonis Papasavva"
+title                    : "Antonis Papasavva, PhD"
 title_separator          : "-"
 name                     : &name "Antonis Papasavva"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Antonis Papasavva"
-  avatar           : "profile.png"
-  bio              : "Post Doctoral Research Fellow"
+  name             : "Antonis Papasavva, PhD"
+  avatar           : "profile.jpg"
+  bio              : "Discourse Analyst and Data Scientist"
   location         : "London, UK"
-  employer         : "University College London"
+  employer         : # "University College London"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=O6qSkH8AAAAJ&hl=en"
-  email            : "antonis.papasavva@ucl.ac.uk"
+  email            : "papasavva.antonis@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Antonis_Papasavva"
   uri              :
   bitbucket        :
