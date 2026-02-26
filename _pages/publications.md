@@ -13,7 +13,7 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ
 
 **2025**  
 --  
-Sharad Agarwal, Antonis Papasavva, Guillermo Suarez-Tangil, Marie Vasek
+Sharad Agarwal, Antonis Papasavva, Guillermo Suarez-Tangil, Marie Vasek  
 **Fishing for Smishing: Understanding SMS Phishing Infrastructure and Strategies by Mining Public User Reports**  
 ACM Internet Measurement Conference 2025 (IMC’25)  
 <span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/10.1145/3730567.3764431)</span>  
